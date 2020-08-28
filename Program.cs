@@ -17,7 +17,7 @@ namespace ConsoleApp10
             {
 
 
-                Console.WriteLine("new фича 3443");
+                Console.WriteLine("new ");
 
             };
 
